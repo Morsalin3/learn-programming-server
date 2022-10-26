@@ -1,26 +1,26 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Full Stack JavaScript-Mern Stack"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "PHP And Laravel"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Full Stack web Develoment"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Wordpress Customiztion"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Digital Marketing"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "Graphic & UI Design"
     }
   ]

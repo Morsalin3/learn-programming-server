@@ -4,13 +4,14 @@
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "price" : "95",
         "category_id": "01",
+        "lesson":"20",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid",
+        "title": "Full Stack JavaScript Mern Stack",
         "published_date": "2022-08-24 17:27:34",
 
         "image_url": "https://i.postimg.cc/cHcT4d2J/ass-10-img-5.jpg",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe."
+        "details": "React JS is in high demand these days. It is very popular framework. React JS developers are in high demand in the industry. Freelance marketplaces are also constantly getting jobs for big projects. But there is a shortage of skilled developers."
 
 },
     {
@@ -18,13 +19,14 @@
         "id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "price" : "132",
         "category_id": "02",
+        "lesson":"20",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 342,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid",
+        "title": "PHP And Laravel",
         "published_date": "2022-08-24 17:27:34",
 
         "image_url": "https://i.postimg.cc/ZnZgV7tW/ass-10-img-4.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe."
+        "details": "Laravel is currently the most popular and powerful PHP framework. This framework follows the MVC pattern. It is open source with very nice documentation. As a result, any developer can easily create a complete website."
 
     },
     {
@@ -32,13 +34,14 @@
         "id": "0282e0e58a5c404fbd15261f11c2ab6c",
         "price" : "75",
         "category_id": "03",
+        "lesson":"18",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 355,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid",
+        "title": "Full Stack web Develoment",
         "published_date": "2022-08-24 17:27:34",
 
         "image_url": "https://i.postimg.cc/kMxtkj8T/ass-10-img-8.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe."
+        "details": "The scope of work of a full stack web developer is huge. Most of the small and big companies in the world have their own website. A full stack web developer is required to build these websites. The demand of web developers is increasing day by day. Especially in freelance marketplaces, companies are hiring for their jobs at much higher rates."
 
     },
     {
@@ -46,13 +49,14 @@
         "id": "0282e0e58a5c404fbd15261f11c2ab6d",
         "price" : "110",
         "category_id": "04",
+        "lesson":"15",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 555,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid",
+        "title": "Wordpress Customiztion",
         "published_date": "2022-08-24 17:27:34",
 
         "image_url": "https://i.postimg.cc/cJvvXWfb/ass-10-img-9.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe."
+        "details": "If you take a look online, you will know that more than 35 percent of all the websites in the world are made through WordPress. From this it can be understood how the global demand for WordPress is. If you can just learn WordPress customization, you can do very well in online marketplace as well as local jobs."
 
     },
 
@@ -61,13 +65,14 @@
         "id": "0282e0e58a5c404fbd15261f11c2ab6e",
         "price" : "80",
         "category_id": "05",
+        "lesson":"10",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 544,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid",
+        "title": "Digital Marketing",
         "published_date": "2022-08-24 17:27:34",
 
         "image_url": "https://i.postimg.cc/8PfWZ14r/ass-10-img-7.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe."
+        "details": "Demand for digital marketing is increasing not only in Bangladesh, but all over the world. Small and big companies are becoming dependent on online marketing day by day. Due to this, the demand for skilled people in digital marketing is increasing all over the world including Bangladesh. The demand for digital marketing related jobs is currently high in freelancing marketplaces."
 
     },
     {
@@ -75,13 +80,14 @@
         "id": "0282e0e58a5c404fbd15261f11c2ab6e",
         "price" : "90",
         "category_id": "06",
+        "lesson":"10",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 288,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid",
+        "title": "Graphic & UI Design",
         "published_date": "2022-08-24 17:27:34",
 
         "image_url": "https://i.postimg.cc/Lspzqrzg/ass-10-img-6.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe."
+        "details": "Branding, marketing or promotion, nothing can be imagined without design. Design has a presence in every step of our lives. Students, employees, businessmen all have a need for design for work needs, product promotion, beautiful presentation. With these things in mind, everyone will learn to design its graphic design course so that people from every sector can work in their daily needs."
 
     }
 ]
